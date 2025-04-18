@@ -17,7 +17,7 @@
    ```
    MONGODB_URI=[I'll send it to you]
    GEMINI_API_KEY=[I'll send it to you]
-   PORT=5000
+   PORT=5001
    ```
 
 4. Start the development server:
